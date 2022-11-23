@@ -1,6 +1,6 @@
 <template>
     <div id="MainPt2" class="between">
-        <div>
+      <div id="width80">
       <img src="../assets/img/buy-comics-digital-comics.png" alt="">
       <h4>DIGITAL COMICS</h4>
       <img src="../assets/img/buy-comics-merchandise.png" alt="">
@@ -31,10 +31,12 @@
     margin: 0;
 
   }
-    h4 {
-    padding: 1rem;
-    margin-right: 20px;
-  }
+
+    #width80 {
+      width: 80%;
+     
+    }
+
 
 
   img {
