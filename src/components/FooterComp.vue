@@ -59,6 +59,7 @@
  
 * {
     display: flex;
+
 }
 
 .column {
@@ -82,7 +83,7 @@ h2 {
 
 
     width: 100%;
-    height: 40vh;
+    height: 50vh;
     color: white;
     
 
@@ -96,7 +97,7 @@ h2 {
     background-image: url(../assets/img/dc-logo-bg.png);
     background-repeat: no-repeat;
     width: 60%;
-    height: 350px;
+    height: 465px;
     margin-left: 25%;
 
   
@@ -113,6 +114,7 @@ ul {
     li {
         color: lightslategray;
         font-size: smaller;
+        
     }
 }
 

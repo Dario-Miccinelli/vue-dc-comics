@@ -1,9 +1,9 @@
 <template>
     <div id="button">
 
-        <button> CURRENT SERIES </button>
+        <button> Load More </button>
 
-    
+        
     </div>
 
   
@@ -19,22 +19,23 @@
 
 #button {
     width: 100%; 
-    height: 1vh;
+    padding-bottom: 1rem;
  
 }
 
 button {
-    position: relative;
-    right: 35rem;
-    bottom: 2rem;
-    padding: 1rem;
+    width: 200px;
+    height: 50px;
+    padding: 0.8rem;
     background-color: #0C7CEC;
-    border: 5px solid #0C7CEC;
+    border: 1px solid black;
     color: white;
     font-size: larger;
     font-weight: bold;
+
 }
- 
+
+
 
   
   </style>

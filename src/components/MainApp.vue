@@ -15,6 +15,8 @@
 
   </div>
 
+
+  <BottoneBottom/>
   <!-- <div id="bottone">
   <button class="BottomBotton">Load More</button>
 </div> -->
@@ -31,6 +33,7 @@
 import MainComponent2 from './MainComponent2.vue';
 import ProductCard from './ProductCard.vue'
 import BottoneTop from './BottoneTop.vue'
+import BottoneBottom from './BottoneBottom.vue'
 
 
 export default {
@@ -38,6 +41,7 @@ export default {
   components: {
     BottoneTop,
     ProductCard,
+    BottoneBottom,
     MainComponent2,
 
 
@@ -170,7 +174,7 @@ export default {
   display: flex;
   flex-wrap: wrap;
   margin:0 auto;
-  padding: 3rem;
+  padding-top: 3rem;
  
 }
 
