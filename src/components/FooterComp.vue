@@ -77,6 +77,7 @@ h2 {
 #Footer {
     background-image: url(../assets/img/footer-bg.jpg);
     background-position: center;
+    background-size: 100%;
     
 
 
@@ -94,8 +95,8 @@ h2 {
 #Image {
     background-image: url(../assets/img/dc-logo-bg.png);
     background-repeat: no-repeat;
-    width: 70%;
-    height: 370px;
+    width: 60%;
+    height: 350px;
     margin-left: 25%;
 
   
