@@ -170,13 +170,27 @@ export default {
 }
 
 .cards {
-  width: 70%;
+  width: 80%;
   display: flex;
   flex-wrap: wrap;
   margin:0 auto;
-  padding-top: 3rem;
+  padding-top: 4rem;
+ 
+
+img {
+  
+      width: 95%;
+      aspect-ratio: 1/1;
+      object-fit:cover;
+      object-position:top;
+      
+     
+     
+}
  
 }
+
+
 
 
 
